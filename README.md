@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm yuuki</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soybeanmilkx&label=Profile%20views&color=0e75b6&style=flat" alt="soybeanmilkx" /> </p>
-
 <p align="left"> <a href="https://twitter.com/liyangv" target="blank"><img src="https://img.shields.io/twitter/follow/liyangv?logo=twitter&style=for-the-badge" alt="liyangv" /></a> </p>
 
 - 📝 I regularly write articles on [https://yuuki.cool/](https://yuuki.cool/)
